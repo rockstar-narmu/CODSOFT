@@ -17,3 +17,17 @@ This task involves creating a mobile sign-up flow designed to provide a smooth a
    ![User Information Input](https://github.com/rockstar-narmu/CODSOFT/assets/143437598/1ae099e0-2e8d-4965-8c44-7b9b6e9e2341)
 - **Confirmation**: A final screen confirming successful sign-up
      ![Confirmation](https://private-user-images.githubusercontent.com/143437598/336159592-76f267f9-c9f9-48e0-8ad4-f2c19eeafdba.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc0MzYwMzIsIm5iZiI6MTcxNzQzNTczMiwicGF0aCI6Ii8xNDM0Mzc1OTgvMzM2MTU5NTkyLTc2ZjI2N2Y5LWM5ZjktNDhlMC04YWQ0LWYyYzE5ZWVhZmRiYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwM1QxNzI4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOWE2NDYxOWNiNWJmMjNkNjk0OTk4N2IyOTNkMThiNTRhYzgwYzZhYjJiNzYxYjRjZGY1YTVjOWFlZGU1YWI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.OxuaRCl_6F7UOSCliRLc9B3243EYpxB68i-fTF0g3Jo)
+
+
+# TASK 2 - RESTAURANT MENU
+
+## Task Description
+
+This project involves designing a restaurant menu that is both visually appealing and easy to use. The goal of a good restaurant menu is to make it easy for customers to find the dishes they want, and to encourage them to order more.
+
+## Prototype Links
+- **Figma Prototype:** https://www.figma.com/design/qrdsYCUfiNJ1PPtgJ69iI7/Restaurant-Menu?node-id=0-1&t=hL7gKlpPBjAs01cY-1
+- **Figma File:** https://drive.google.com/file/d/1xXOzq3inYRcGOFigDgYfzc4c4xDUsCr1/view?usp=sharing
+
+# Preview:
+- **Splash Screen**
