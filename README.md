@@ -7,12 +7,16 @@ This repository contains the tasks and projects completed during my UI/UX intern
 This task involves creating a mobile sign-up flow designed to provide a smooth and intuitive user experience for new users signing up and logging in for a service or application. The flow includes screens for splash screen, user information input, validation, and confirmation.
 
 ## Demo
-
 For a Video Demo [CLICK HERE!](https://drive.google.com/file/d/1ix4WdlzB-4ILAEFTP-4WV9f7oQLdcNdK/view?usp=sharing)
 
 ## Prototype Links
 - **Figma Prototype:** https://www.figma.com/design/nhI7BceQLCU8hhlGdgHjvL/Mobile-App-Sign-Up-Flow?t=XFrT28Q0VC5Venjc-1
 - **Figma File:** https://drive.google.com/file/d/1vZ40vWyIQO46aiQ1knQK2fA9xJ1YVPhX/view?usp=sharing
+
+## Key Features
+1. **Splash Screen**: Welcoming and Loading Page
+2. **Login and Signup Pages**: Screens for entering user details such as name, email, phone number, and password.
+3. **Confirmation**: A final screen confirming successful sign-up and providing further instructions.
 
 ## Preview:
 - **Main Screen**:
@@ -40,10 +44,17 @@ For a Video Demo [CLICK HERE!]([https://drive.google.com/file/d/1ix4WdlzB-4ILAEF
 - **Figma Prototype:** https://www.figma.com/design/qrdsYCUfiNJ1PPtgJ69iI7/Restaurant-Menu?t=XFrT28Q0VC5Venjc-1
 - **Figma File:** https://drive.google.com/file/d/1xXOzq3inYRcGOFigDgYfzc4c4xDUsCr1/view?usp=sharing
 
+## Key Features
+1. **Visually Appealing**: The menu is designed to be visually appealing and easy to read. The use of colors, fonts, and images is carefully considered to create a visually appealing menu that enhances the dining experience.
+2. **Easy to Use**: The menu is easy to use and navigate. Customers can easily find the necessary information and make their selections without any confusion. The layout is intuitive, ensuring a seamless user experience.
+3. **Categorized**: The menu is categorized to help customers easily find the dishes they are looking for. The categories are clear and concise, and they are consistent throughout the menu. This makes it easier for customers to browse through the menu and make their choices.
+
 # Preview:
 - **Splash Screen:** ![Splash Screen](https://github.com/rockstar-narmu/CODSOFT/assets/143437598/8b92fca9-aa17-420d-8bf0-f138a2682eee)
 - **Main Screen:** ![Main Screen](https://github.com/rockstar-narmu/CODSOFT/assets/143437598/b48145da-7653-46fe-b37c-76cdbff77d56)
 - **Categories:** ![Categories](https://github.com/rockstar-narmu/CODSOFT/assets/143437598/cd435aad-539f-4a72-b4d8-ac858a575cd3)
+
+
 
 # TASK 3 - E-COMMERCE WEBSITE
 
@@ -58,6 +69,12 @@ For a Video Demo [CLICK HERE!](https://drive.google.com/file/d/1yckRQT1YZ2gR42wC
 ## Prototype Links
 - **Figma Prototype:** https://www.figma.com/design/ZO4PeawPwfGXrireiDAh5S/Untitled?node-id=0-1&t=XFrT28Q0VC5Venjc-1
 - **Figma File:** https://drive.google.com/file/d/1abct34graC4S5fsVkvKtMpKfNbmC3Q4u/view?usp=sharing
+
+## Key Features
+1. **Visually Appealing**: The website is designed to be visually appealing and easy to read. The use of colors, fonts, and images is carefully considered to create a visually appealing website that enhances the shopping experience.
+2. **Easy to Use**: The website is easy to use and navigate. Customers can easily find the necessary information and make their purchases without any confusion. The layout is intuitive, ensuring a seamless user experience.
+3. **Categorized**: The products on the website are categorized to help customers easily find the products they are looking for. The categories are clear and concise, and they are consistent throughout the website. This makes it easier for customers to browse through the website and find what they need.
+4. **Searchable**: The website is searchable so that customers can easily find the products they are looking for. The search function is easy to use and returns relevant results, helping customers quickly locate specific items.
 
 # Preview
 - **Home Page:** ![Home Page](https://github.com/rockstar-narmu/CODSOFT/assets/143437598/3485f12a-34e1-4bc4-b1f8-fa3c13dbac54)
