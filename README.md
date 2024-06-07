@@ -38,7 +38,7 @@ This project involves designing a restaurant menu that is both visually appealin
 
 ## Demo
 
-For a Video Demo [CLICK HERE!]([https://drive.google.com/file/d/1ix4WdlzB-4ILAEFTP-4WV9f7oQLdcNdK/view?usp=sharing](https://drive.google.com/file/d/1yQlJBm_UfzM8dy5cKoOykrf92nwZXPD0/view?usp=sharing))
+For a Video Demo [CLICK HERE!](https://drive.google.com/file/d/1yQlJBm_UfzM8dy5cKoOykrf92nwZXPD0/view?usp=sharing)
 
 ## Prototype Links
 - **Figma Prototype:** https://www.figma.com/design/qrdsYCUfiNJ1PPtgJ69iI7/Restaurant-Menu?t=XFrT28Q0VC5Venjc-1
